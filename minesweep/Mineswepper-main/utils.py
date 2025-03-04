@@ -1,0 +1,2 @@
+GRID_SIZE = 0
+MINE_COUNT = (GRID_SIZE ** 2) // 4
